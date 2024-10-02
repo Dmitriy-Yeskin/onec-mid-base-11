@@ -9,4 +9,11 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ТП_КонтактныеЛица</content>
   <content>Catalog.ТП_Должности</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>CommonModule.ТП_РаботаСФормами</content>
+  <content>CommonModule.ПодключаемыеКоманды</content>
 </mdclass:Subsystem>
